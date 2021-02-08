@@ -1,10 +1,12 @@
-# Analysis scripts for paper "COVID-induced low power demand and market forces starkly reduce CO2 emissions"
+# Analysis scripts for paper "COVID-19-induced low power demand and market forces starkly reduce CO2 emissions"
+
+Christoph Bertram, Gunnar Luderer, Felix Creutzig, Nico Bauer, Falko Ueckerdt, Aman Malik and Ottmar Edenhofer; Nature Climate Change (2021) https://www.nature.com/articles/s41558-021-00987-x
 
 ## Introduction
 
 * This repository contains all code to generate the figures of the main paper and SI.
 * This code comes with a Two-clause BSD licence (BSD-2) which can be found in the file "LICENCE". 
-* To cite the paper, please use the citation as suggested in the file "CITATION", and to specifically refer to this code, please use the doi referring to the linked zenodo entry.
+* To cite the paper, please use the citation as suggested in the file "CITATION", and to specifically refer to this code, please use the doi referring to the linked zenodo entry (https://doi.org/10.5281/zenodo.4453371).
 
 ## Preparation
 
